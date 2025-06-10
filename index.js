@@ -52,7 +52,7 @@ const normalizeData = async (dataToNormalize, startRecord = 0, endRecord = 10) =
 		eAlphaHandles.push(dataToCheck[z]['Handle']);
 	}
 
-	console.log(eAlphaHandles.la);
+	console.log(eAlphaHandles);
 	for (let i = startRecord; i < endRecord; i++) {
 
 		let eNewHandle = dataToNormalize[i]['Handle'];
