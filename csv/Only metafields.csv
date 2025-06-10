@@ -1,0 +1,703 @@
+ID,Handle,Command,Title,Metafield: custom.product_collections [list.single_line_text_field]
+8940185288935,cropped-long-sleeve-thermal-black,MERGE,Cropped Long Sleeve Thermal,"[""T-shirts""]"
+8940185223399,long-sleeve-thermal-black,MERGE,Long Sleeve Thermal,"[""T-shirts""]"
+8940185518311,long-sleeve-boyfriend-tee-black,MERGE,Long Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940185387239,short-sleeve-boyfriend-tee,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940185649383,cropped-rib-tank-black,MERGE,Cropped Rib Tank,"[""Tanks""]"
+8940185059559,short-sleeve-baby-tee-black,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+8940185747687,boyfriend-tank-black,MERGE,Boyfriend Tank,
+8940186075367,boyfriend-tank-ivory,MERGE,Boyfriend Tank,
+8940186009831,cropped-boyfriend-tank-ivory,MERGE,Cropped Boyfriend Tank,
+8940186206439,cropped-boyfriend-tank-black,MERGE,Cropped Boyfriend Tank,
+8940185616615,rib-tank-ivory,MERGE,Rib Tank,"[""Tanks""]"
+8940186403047,cropped-rib-tank-ivory,MERGE,Cropped Rib Tank,"[""Tanks""]"
+8940186730727,long-sleeve-boyfriend-tee-ivory,MERGE,Long Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940186566887,cropped-rib-tank-heather-grey,MERGE,Cropped Rib Tank,"[""Tanks""]"
+8940186960103,long-sleeve-thermal-ivory,MERGE,Long Sleeve Thermal,"[""T-shirts""]"
+8940187025639,cropped-long-sleeve-thermal-ivory,MERGE,Cropped Long Sleeve Thermal,
+8940187123943,the-rib-tank-black,MERGE,Rib Tank,"[""Tanks""]"
+8940186829031,long-sleeve-boyfriend-tee-heather-grey,MERGE,Long Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940187615463,the-short-sleeve-boyfriend-tee-ivory,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940187713767,the-short-sleeve-boyfriend-tee-g,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940187484391,short-sleeve-baby-ivory,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+8940187287783,the-rib-tank-heather-grey,MERGE,Rib Tank,"[""Tanks""]"
+8940188041447,bandeau-bra,MERGE,Bandeau Bra,"[""Intimates"",""Bras""]"
+8940187877607,short-biker,MERGE,Short Biker,"[""Shorts"",""Bottoms""]"
+8940188205287,scoop-neck-bra-ivory,MERGE,Scoop Neck Bra,"[""Intimates"",""Bras""]"
+8940188500199,triangle-bra-ivory,MERGE,Triangle Bra,"[""Intimates"",""Bras""]"
+8940188369127,scoop-neck-bra-black,MERGE,Scoop Neck Bra,"[""Intimates"",""Bras""]"
+8940187975911,long-biker,MERGE,Long Biker,
+8940188729575,high-rise-brief-black,MERGE,High Rise Brief,"[""Intimates"",""Underwear""]"
+8940188598503,triangle-bra-black,MERGE,Triangle Bra,"[""Intimates"",""Bras""]"
+8940188893415,low-rise-thong-black,MERGE,Low Rise Thong,"[""Intimates"",""Underwear""]"
+8940188664039,90s-brief-ivory,MERGE,90s Brief,"[""Intimates"",""Underwear""]"
+8940189090023,high-rise-thong-ivory,MERGE,High Rise Thong,"[""Intimates"",""Underwear""]"
+8940188991719,low-rise-thong-ivory,MERGE,Low Rise Thong,"[""Intimates"",""Underwear""]"
+8940189221095,high-rise-thong-black,MERGE,High Rise Thong,"[""Intimates"",""Underwear""]"
+8940188795111,high-rise-brief-ivory,MERGE,High Rise Brief,"[""Intimates"",""Underwear""]"
+8940189352167,eterne-mask,MERGE,Éterne Mask,[]
+8940189614311,turtleneck-bodysuit,MERGE,Sleeveless Turtleneck Bodysuit,"[""Bodysuits""]"
+8940189974759,long-sleeve-bodysuit-black,MERGE,Long Sleeve Deep V Bodysuit,"[""Bodysuits""]"
+8940189909223,long-sleeve-bodysuit-ivory,MERGE,Long Sleeve Deep V Bodysuit,"[""Bodysuits""]"
+8940190138599,tank-bodysuit-black,MERGE,Tank Bodysuit,"[""Bodysuits""]"
+8940190204135,cropped-ribbed-turtleneck-ivory,MERGE,Cropped Rib Turtleneck,
+8940190302439,cropped-ribbed-turtleneck-black,MERGE,Cropped Rib Turtleneck,"[""Tops""]"
+8940190367975,ribbed-racerback-tank-ivory,MERGE,Rib Racerback Tank,"[""Tanks""]"
+8940190499047,ribbed-racerback-tank-black,MERGE,Rib Racerback Tank Black,
+8940189810919,halter-bodysuit-black,MERGE,Halter Bodysuit,
+8940189745383,halter-bodysuit-ivory,MERGE,Halter Bodysuit,
+8940190662887,ribbed-racerback-tank-heather-grey,MERGE,Rib Racerback Tank Heather Grey,
+8940190728423,cropped-rib-racerback-tank-ivory,MERGE,Cropped Rib Racerback Tank,
+8940191187175,long-sleeve-hoodie-t-shirt-ivory,MERGE,Long Sleeve Hoodie T-Shirt,
+8940190892263,cropped-ribbed-racerback-tank-black,MERGE,Cropped Rib Racerback Tank,"[""Tanks""]"
+8940190990567,cropped-ribbed-racerback-tank-heather-grey,MERGE,Cropped Rib Racerback Tank,
+8940191285479,long-sleeve-hoodie-t-shirt-black,MERGE,Long Sleeve Hoodie T-Shirt,
+8940191449319,long-sleeve-hoodie-t-shirt-heather-grey,MERGE,Long Sleeve Hoodie T-Shirt,
+8940191875303,long-sleeve-cropped-hoodie-t-shirt-black,MERGE,Long Sleeve Cropped Hoodie T-Shirt,
+8940191547623,long-sleeve-cropped-hoodie-t-shirt-ivory,MERGE,Long Sleeve Cropped Hoodie T-Shirt,
+8940192039143,boyfriend-pocket-t-shirt-ivory,MERGE,Boyfriend Pocket T-Shirt,
+8940191940839,long-sleeve-cropped-hoodie-t-shirt-heather-grey,MERGE,Long Sleeve Cropped Hoodie T-Shirt,
+8940192071911,boyfriend-pocket-t-shirt-black,MERGE,Boyfriend Pocket T-Shirt,
+8940192235751,boyfriend-pocket-t-shirt-heather-grey,MERGE,Boyfriend Pocket T-Shirt,
+8940192563431,lounge-boxer-short-ivory,MERGE,Lounge Boxer Short,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940192301287,lounge-pant-ivory,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940192727271,lounge-boxer-short-black,MERGE,Lounge Boxer Short,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940192825575,lounge-boxer-short-heather-grey,MERGE,Lounge Boxer Short,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940192891111,oversized-thermal-ivory,MERGE,Oversized Thermal,"[""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940193022183,oversized-thermal-black,MERGE,Oversized Thermal,"[""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940192432359,lounge-pant-heather-grey,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge""]"
+8940192399591,lounge-pant-black,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge""]"
+8940193153255,oversized-thermal-heather-grey,MERGE,Oversized Thermal,"[""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940193251559,cropped-oversized-thermal-ivory,MERGE,Cropped Oversized Thermal,
+8940193382631,cropped-oversized-thermal-black,MERGE,Cropped Oversized Thermal,
+8940193579239,cropped-oversized-thermal-heather-grey,MERGE,Cropped Oversized Thermal,
+8940193710311,thermal-biker-short-black,MERGE,Thermal Biker Short,
+8940193874151,thermal-romper,MERGE,Thermal Romper,"[""Rompers"",""Lounge""]"
+8940193808615,thermal-biker-short-heather-grey,MERGE,Thermal Biker Short,
+8940194169063,cropped-v-neck-t-shirt-black,MERGE,Cropped V-Neck T-Shirt,
+8940193939687,thermal-lounge-pant-ivory,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940194300135,cropped-v-neck-t-shirt-ivory,MERGE,Cropped V-Neck T-Shirt,[]
+8940194037991,thermal-lounge-pant-black,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940194365671,v-neck-t-shirt-ivory,MERGE,V-Neck T-Shirt,"[""T-shirts""]"
+8940194103527,thermal-lounge-pant-heather-grey,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940194595047,v-neck-t-shirt-black,MERGE,V-Neck T-Shirt Black,"[""T-shirts""]"
+8940194693351,long-sleeve-cropped-t-shirt-black,MERGE,Long Sleeve Cropped T-Shirt,
+8940194857191,long-sleeve-cropped-t-shirt-heather-grey,MERGE,Long Sleeve Cropped T-Shirt,
+8940194988263,long-sleeve-cropped-rib-t-shirt-ivory,MERGE,Long Sleeve Cropped Rib T-Shirt,"[""T-shirts""]"
+8940194922727,long-sleeve-cropped-t-shirt-ivory,MERGE,Long Sleeve Cropped T-Shirt,"[""T-shirts""]"
+8940195184871,long-sleeve-cropped-rib-t-shirt-black,MERGE,Long Sleeve Cropped Rib T-Shirt,
+8940195283175,long-sleeve-cropped-rib-t-shirt-heather-grey,MERGE,Long Sleeve Cropped Rib T-Shirt,
+8940195545319,cropped-v-neck-t-shirt-heather-grey,MERGE,Cropped V-Neck T-Shirt,"[""T-shirts""]"
+8940195741927,v-neck-t-shirt-heather-grey,MERGE,V-Neck T-Shirt,
+8940195381479,short-sleeve-baby-tee-heather-grey,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+8940196167911,thermal-drawstring-pant-heather-grey,MERGE,Drawstring Pant,"[""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940196233447,cropped-thermal-henley-black,MERGE,Cropped Thermal Henley,
+8940195905767,cropped-long-sleeve-thermal-grey,MERGE,Cropped Long Sleeve Thermal,
+8940196036839,thermal-drawstring-pant-black,MERGE,Drawstring Pant,"[""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940195971303,long-sleeve-thermal-grey,MERGE,Long Sleeve Thermal,"[""T-shirts""]"
+8940196298983,cropped-thermal-henley-heather-grey,MERGE,Cropped Thermal Henley,
+8940196397287,cropped-scoop-neck-tank-ivory,MERGE,Cropped Scoop Neck Tank,"[""Tanks""]"
+8940196757735,cropped-scoop-neck-tank-heather-grey,MERGE,Cropped Scoop Neck Tank,"[""Tanks""]"
+8940196561127,cropped-scoop-neck-tank-black,MERGE,Cropped Scoop Neck Tank,"[""Tanks""]"
+8940196954343,thermal-henley-black,MERGE,Thermal Henley,[]
+8940197118183,thermal-henley-heather-grey,MERGE,Thermal Henley,[]
+8940197216487,tank-dress-mini-heather-grey,MERGE,Tank Mini Dress,
+8940197380327,tank-dress-mini-cream,MERGE,Tank Mini Dress,"[""Dresses"",""Mini""]"
+8940197576935,tank-dress-mini-black,MERGE,Tank Mini Dress,"[""Dresses"",""Mini""]"
+8940197675239,long-sleeve-crewneck-dress-mini-black,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940197871847,long-sleeve-crewneck-dress-mini-heather-grey,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940197839079,long-sleeve-crewneck-dress-mini-cream,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940197970151,super-cropped-rib-tank-black,MERGE,Super Cropped Rib Tank,
+8940198101223,super-cropped-rib-tank-heather-grey,MERGE,Super Cropped Rib Tank,
+8940198199527,super-cropped-rib-tank-ivory,MERGE,Super Cropped Rib Tank,
+8940198756583,cropped-long-sleeve-fitted-top-black,MERGE,Cropped Long Sleeve Fitted Top,"[""Tops"",""T-shirts""]"
+8940198363367,long-sleeve-fitted-top-black,MERGE,Long Sleeve Fitted Top,"[""Tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940198822119,cropped-long-sleeve-fitted-top-cream,MERGE,Cropped Long Sleeve Fitted Top,"[""Tops"",""T-shirts""]"
+8940198625511,long-sleeve-fitted-top-heather-grey,MERGE,Long Sleeve Fitted Top,"[""Tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940198559975,long-sleeve-fitted-top-cream,MERGE,Long Sleeve Fitted Top,"[""Tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+8940199084263,cropped-long-sleeve-fitted-top-heather-grey,MERGE,Cropped Long Sleeve Fitted Top,"[""Tops"",""T-shirts""]"
+8940199444711,cropped-fitted-turtleneck-top-heather-grey,MERGE,Cropped Fitted Turtleneck Top,
+8940199543015,thin-strap-fitted-tank-black,MERGE,Thin Strap Fitted Tank,"[""Tanks""]"
+8940199608551,thin-strap-fitted-tank-cream,MERGE,Thin Strap Fitted Tank,"[""Tanks""]"
+8940199674087,thin-strap-fitted-tank-heather-grey,MERGE,Thin Strap Fitted Tank,
+8940199248103,cropped-fitted-turtleneck-top-black,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""T-shirts""]"
+8940199313639,cropped-fitted-turtleneck-top-cream,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""T-shirts""]"
+8940199837927,cropped-thin-strap-fitted-tank-cream,MERGE,Cropped Thin Strap Fitted Tank,
+8940199772391,cropped-thin-strap-fitted-tank-black,MERGE,Cropped Thin Strap Fitted Tank,"[""Tanks""]"
+8940212027623,esme-mini-sarong,MERGE,Esme Mini Sarong,"[""Cover Ups"",""Swim""]"
+8940211634407,dylan-boxer-short,MERGE,Dylan Boxer Short,
+8940212125927,esme-mini-sarong-1,MERGE,Esme Mini Sarong,"[""Cover Ups"",""Swim""]"
+8940212191463,esme-mini-sarong-2,MERGE,Esme Mini Sarong,"[""Cover Ups"",""Swim""]"
+8940211929319,dylan-boxer-short-2,MERGE,Dylan Boxer Short,
+8940212224231,bella-tank-one-piece,MERGE,Bella Tank One Piece,"[""One Pieces"",""Swim""]"
+8940211765479,dylan-boxer-short-1,MERGE,Dylan Boxer Short,
+8940212388071,bella-tank-one-piece-1,MERGE,Bella Tank One Piece,"[""One Pieces"",""Swim""]"
+8940212650215,thea-90s-bikini-top,MERGE,Thea Bikini Top,"[""Bikini Tops"",""Swim""]"
+8940212584679,bella-tank-one-piece-2,MERGE,Bella Tank One Piece,"[""One Pieces"",""Swim""]"
+8940212781287,thea-90s-bikini-top-1,MERGE,Thea Bikini Top Ivory,"[""Bikini Tops"",""Swim""]"
+8940213043431,thea-90s-bikini-bottom,MERGE,Thea Bikini Bottom,"[""Bikini Bottoms"",""Swim""]"
+8940212912359,thea-90s-bikini-top-2,MERGE,Thea Bikini Top Chocolate,"[""Bikini Tops"",""Swim""]"
+8940213141735,thea-90s-bikini-bottom-1,MERGE,Thea Bikini Bottom,"[""Bikini Bottoms"",""Swim""]"
+8940213272807,thea-90s-bikini-bottom-2,MERGE,Thea Bikini Bottom,"[""Bikini Bottoms"",""Swim""]"
+8940213371111,esme-maxi-sarong,MERGE,Esme Maxi Sarong,"[""Cover Ups"",""Swim""]"
+8940213403879,esme-maxi-sarong-1,MERGE,Esme Maxi Sarong,"[""Cover Ups"",""Swim""]"
+8940213502183,esme-maxi-sarong-2,MERGE,Esme Maxi Sarong,"[""Cover Ups"",""Swim""]"
+8940213567719,willow-pant,MERGE,Willow Pant,"[""Cover Ups"",""Swim""]"
+8940213731559,willow-pant-1,MERGE,Willow Pant,"[""Cover Ups"",""Swim""]"
+8940214059239,lennon-robe,MERGE,Lennon Robe,
+8940214190311,lennon-robe-1,MERGE,Lennon Robe,
+8940214288615,lennon-robe-2,MERGE,Lennon Robe,
+8940213928167,willow-pant-2,MERGE,Willow Pant,"[""Cover Ups"",""Bottoms"",""Swim""]"
+8940214452455,georgia-maxi-dress,MERGE,Georgia Dress Cream,
+8940214485223,charlie-top,MERGE,Charlie Top,"[""Tops""]"
+8940214616295,sloane-dress,MERGE,Sloane Dress,
+8940214976743,chloe-top,MERGE,Chloé Top,
+8940215206119,simone-top,MERGE,Simone Top,
+8940214747367,romee-top,MERGE,Romee Top,
+8940215402727,tank-dress-mini-chocolate,MERGE,Tank Mini Dress,"[""Dresses"",""Mini""]"
+8940215599335,terry-raglan-cutoff-top,MERGE,TERRY RAGLAN CUTOFF TOP,"[""Tops"",""Lounge"",""Lounge Tops""]"
+8940215697639,terry-raglan-cutoff-top-1,MERGE,TERRY RAGLAN CUTOFF TOP CREAM,"[""Tops"",""Lounge"",""Lounge Tops""]"
+8940215304423,emma-skirt,MERGE,Emma Skirt,
+8940216058087,ines,MERGE,Ines Racerback Tank,
+8940216123623,poppy,MERGE,Poppy Cardigan Millet,
+8940215861479,terry-boyfriend-short,MERGE,TERRY BOYFRIEND SHORT,"[""Shorts"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940216254695,cheyenne,MERGE,Cheyenn Cropped Sweater,
+8940216582375,francis-top,MERGE,Francis Sweater,"[""Sweaters"",""Knitwear"",""Knitwear Tops"",""Tops""]"
+8940216713447,ines-1,MERGE,Ines Racerback Tank,
+8940216352999,emma-skirt-1,MERGE,Emma Skirt,"[""Skirts"",""Bottoms"",""Knitwear"",""Knitwear Bottoms""]"
+8940217008359,blaise,MERGE,BLAISE,[]
+8940215927015,terry-boyfriend-short-1,MERGE,TERRY BOYFRIEND SHORT,"[""Shorts"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940216451303,james-sweater-millet,MERGE,James Sweater,"[""Sweaters"",""Knitwear""]"
+8940216844519,ines-2,MERGE,Ines Racerback Top,"[""Knitwear"",""Knitwear Tops""]"
+8940217073895,blaise-1,MERGE,BLAISE,[]
+8940217172199,blaise-2,MERGE,BLAISE,[]
+8940217204967,jamie,MERGE,JAMIE,[]
+8940217303271,jamie-1,MERGE,JAMIE,[]
+8940217368807,jamie-2,MERGE,JAMIE,[]
+8940217499879,poppy-2,MERGE,Poppy Cardigan Cream,[]
+8940217434343,poppy-1,MERGE,Poppy Cardigan Black,
+8940217630951,cheyenne-2,MERGE,Cheyenne Boat Neck Sweater,"[""Sweaters""]"
+8940217729255,emma-skirt-3,MERGE,Emma Skirt,"[""Skirts"",""Bottoms"",""Knitwear"",""Knitwear Bottoms""]"
+8940217532647,cheyenne-1,MERGE,Cheyenn Cropped Sweater,
+8940217958631,ls-baby-tee-black,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+8940218089703,ls-baby-tee-ivory,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+8940218253543,ls-baby-tee-heather-grey,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+8940218351847,long-sleeve-turtleneck-dress-maxi-chocolate,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940218482919,ls-raglan-sweatshirt,MERGE,Long Sleeve Raglan Sweatshirt,
+8940218581223,ls-raglan-sweatshirt-1,MERGE,Long Sleeve Raglan Sweatshirt,
+8940217762023,emma-skirt-4,MERGE,Emma Skirt,"[""Skirts"",""Bottoms"",""Knitwear"",""Knitwear Bottoms""]"
+8940218712295,ls-raglan-sweatshirt-2,MERGE,Long Sleeve Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940218876135,high-rise-legging,MERGE,High Rise Legging,"[""Leggings"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940217663719,emma-skirt-2,MERGE,Emma Skirt,"[""Skirts"",""Bottoms"",""Knitwear"",""Knitwear Bottoms""]"
+8940219203815,square-neck-maxi-dress,MERGE,Square Neck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940219334887,square-neck-maxi-dress-1,MERGE,Square Neck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940218941671,boy-short,MERGE,High Waisted Boy Short,"[""Shorts"",""Intimates"",""Lounge""]"
+8940219072743,sports-bra,MERGE,Sports Bra,"[""Intimates"",""Bras"",""Lounge""]"
+8940219433191,square-neck-maxi-dress-2,MERGE,Square Neck Maxi Dress,
+8940219531495,square-neck-mini-dress-black,MERGE,Square Neck Mini Dress,"[""Dresses"",""Mini""]"
+8940219695335,square-neck-mini-dress-cream,MERGE,Square Neck Mini Dress,"[""Dresses"",""Mini""]"
+8940219859175,square-neck-mini-dress-2,MERGE,Square Neck Mini Dress,
+8940220023015,henley-onesie,MERGE,Henley Onesie,"[""Lounge""]"
+8940220448999,cropped-half-zip-sweatshirt,MERGE,Cropped Half-Zip Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940220252391,ls-raglan-sweatshirt-3,MERGE,Long Sleeve Raglan Sweatshirt,
+8940220580071,cropped-half-zip-sweatshirt-1,MERGE,Cropped Half-Zip Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940220743911,cropped-half-zip-sweatshirt-2,MERGE,Cropped Half-Zip Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940221235431,willa,MERGE,WILLA CASHMERE BRA,
+8940221104359,brady-1,MERGE,BRADY SWEATER,"[""Sweaters"",""Knitwear"",""Knitwear Tops""]"
+8940221399271,willa-1,MERGE,WILLA CASHMERE BRA,
+8940221497575,willa-2,MERGE,WILLA CASHMERE BRA,
+8940220973287,brady-chocolate,MERGE,BRADY SWEATER,"[""Sweaters"",""Knitwear""]"
+8940221792487,lenny-1,MERGE,LENNY VEST,"[""Knitwear"",""Tops"",""Knitwear Tops""]"
+8940221661415,lenny,MERGE,LENNY VEST,"[""Knitwear"",""Knitwear Tops"",""Tops""]"
+8940221858023,james-sweater-oatmeal,MERGE,James Sweater,"[""Sweaters"",""Knitwear"",""Tops"",""Knitwear Tops""]"
+8940221956327,francis-top-1,MERGE,Francis Sweater,"[""Sweaters"",""Knitwear""]"
+8940220842215,emma-skirt-6,MERGE,Emma Skirt,"[""Skirts"",""Bottoms"",""Knitwear"",""Knitwear Bottoms""]"
+8940222677223,shrunken-raglan-sweatshirt-clay,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940222841063,oversized-crewneck-sweatshirt-clay,MERGE,Oversized Crewneck Sweatshirt,
+8940222054631,terry-boyfriend-short-2,MERGE,TERRY BOYFRIEND SHORT,
+8940223004903,terry-raglan-cutoff-top-2,MERGE,TERRY RAGLAN CUTOFF TOP,
+8940222447847,classic-sweatpant-clay,MERGE,Classic Sweatpant,
+8940223135975,ls-raglan-sweatshirt-4,MERGE,Long Sleeve Raglan Sweatshirt,
+8940222513383,straight-leg-sweatpant-clay,MERGE,Straight Leg Sweatpant,
+8940223299815,oversized-polo-sweatshirt,MERGE,Oversized Polo Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940223430887,oversized-polo-sweatshirt-1,MERGE,Oversized Polo Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940223660263,paige,MERGE,Paige Cashmere Vest,"[""Knitwear""]"
+8940223103207,terry-boyfriend-short-3,MERGE,TERRY BOYFRIEND SHORT,
+8940223594727,luna-1,MERGE,Luna Cashmere Skirt,"[""Skirts"",""Knitwear"",""Bottoms""]"
+8940223758567,paige-1,MERGE,Paige Cashmere Vest,"[""Knitwear""]"
+8940223987943,clive-1,MERGE,Clive V-Neck Sweater,"[""Sweaters"",""Knitwear""]"
+8940223889639,clive,MERGE,Clive V-Neck Sweater,"[""Sweaters"",""Knitwear""]"
+8940224184551,tank-maxi-dress,MERGE,Tank Maxi Dress,
+8940224282855,long-sleeve-crewneck-mini-dress,MERGE,Long Sleeve Crewneck Mini Dress,
+8940223496423,luna,MERGE,Luna Cashmere Skirt,"[""Skirts"",""Knitwear"",""Bottoms""]"
+8940224020711,long-sleeve-fitted-top-clay,MERGE,Long Sleeve Fitted Top,
+8940224381159,long-sleeve-crewneck-maxi-dress,MERGE,Long Sleeve Crewneck Maxi Dress,
+8940224479463,high-neck-fitted-tank-4,MERGE,High Neck Fitted Tank,
+8940225003751,high-rise-legging-1,MERGE,High Rise Legging,"[""Leggings"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940224708839,emma-skirt-7,MERGE,Emma Skirt,"[""Skirts"",""Bottoms""]"
+8940224577767,emma-skirt-black,MERGE,Emma Skirt,"[""Skirts"",""Bottoms""]"
+8940224839911,emma-skirt-8,MERGE,Emma Skirt,"[""Skirts"",""Bottoms""]"
+8940225593575,short-sleeve-baby-tee-clay,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+8940225429735,sports-bra-1,MERGE,Sports Bra,"[""Intimates"",""Bras"",""Lounge""]"
+8940225167591,boy-short-1,MERGE,High Waisted Boy Short,"[""Shorts"",""Intimates"",""Lounge""]"
+8940225659111,lounge-pant-clay,MERGE,Lounge Pant,
+8940225757415,shrunken-hoodie-sweatshirt,MERGE,Shrunken Hoodie Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""tops""]"
+8940225888487,shrunken-hoodie-sweatshirt-1,MERGE,Shrunken Hoodie Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""tops""]"
+8940226478311,fitted-tank-1,MERGE,Fitted Tank,"[""Tanks""]"
+8940226052327,shrunken-hoodie-sweatshirt-2,MERGE,Shrunken Hoodie Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""tops""]"
+8940226314471,fitted-tank,MERGE,Fitted Tank,"[""Tanks""]"
+8940226576615,fitted-tank-2,MERGE,Fitted Tank,"[""Tanks""]"
+8940226707687,loose-tank,MERGE,Loose Tank,"[""Tanks"",""Tops""]"
+8940226871527,loose-tank-2,MERGE,Loose Tank,"[""Tanks"",""Tops""]"
+8940226773223,loose-tank-1,MERGE,Loose Tank,"[""Tanks"",""Tops""]"
+8940226969831,loose-tank-3,MERGE,Loose Tank,"[""tops"",""tanks""]"
+8940227068135,halter-mini-dress,MERGE,Halter Mini Dress,"[""Dresses"",""Mini""]"
+8940227231975,halter-mini-dress-1,MERGE,Halter Mini Dress,"[""Dresses"",""Mini""]"
+8940226183399,terry-boyfriend-short-4,MERGE,TERRY BOYFRIEND SHORT,"[""Shorts"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940227297511,halter-maxi-dress,MERGE,Halter Maxi Dress,"[""Dresses"",""Maxi""]"
+8940227526887,90s-tank,MERGE,90s Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940227395815,halter-maxi-dress-1,MERGE,Halter Maxi Dress,"[""Dresses"",""Maxi""]"
+8940227657959,90s-tank-1,MERGE,90s Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940227985639,halter-top,MERGE,Cropped Halter Top,"[""Tops""]"
+8940228083943,halter-top-1,MERGE,Cropped Halter Top,"[""Tops""]"
+8940228182247,sleeveless-crewneck-sweatshirt,MERGE,SLEEVELESS CREWNECK TOP,"[""Tops"",""Lounge"",""Lounge Tops""]"
+8940228378855,tube-maxi-dress-1,MERGE,TUBE MAXI DRESS,"[""Dresses"",""Maxi""]"
+8940228346087,tube-maxi-dress,MERGE,TUBE MAXI DRESS,"[""Dresses"",""Maxi""]"
+8940228542695,tube-maxi-dress-2,MERGE,TUBE MAXI DRESS,"[""Dresses"",""Maxi""]"
+8940228903143,square-neck-tank,MERGE,SQUARE NECK TANK,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940227821799,high-neck-fitted-tank-5,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940229001447,square-neck-tank-1,MERGE,SQUARE NECK TANK,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940228673767,drawstring-short-black,MERGE,DRAWSTRING SHORT,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940229099751,square-neck-maxi-dress-3,MERGE,Square Neck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940228804839,drawstring-short-heather-grey,MERGE,DRAWSTRING SHORT,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940229361895,lounge-socks,MERGE,LOUNGE SOCK,"[""Accessories"",""Socks""]"
+8940229460199,lounge-socks-1,MERGE,LOUNGE SOCK,"[""Accessories"",""Socks""]"
+8940229263591,square-neck-mini-dress,MERGE,Square Neck Mini Dress,"[""Dresses"",""Mini""]"
+8940229558503,lounge-socks-2,MERGE,LOUNGE SOCK,"[""Accessories"",""Socks""]"
+8940229656807,classis-rib-socks,MERGE,CLASSIC RIBBED SOCK,"[""Accessories"",""Socks""]"
+8940229787879,classis-rib-socks-1,MERGE,CLASSIC RIBBED SOCK,"[""Accessories"",""Socks""]"
+8940229886183,classis-rib-socks-2,MERGE,CLASSIC RIBBED SOCK,"[""Accessories"",""Socks""]"
+8940229951719,sleeveless-crewneck-sweatshirt-1,MERGE,SLEEVELESS CREWNECK TOP,"[""Tops"",""Lounge"",""Lounge Tops""]"
+8940230082791,sleeveless-crewneck-sweatshirt-2,MERGE,SLEEVELESS CREWNECK TOP,"[""Tops""]"
+8940230279399,square-neck-tank-2,MERGE,SQUARE NECK TANK,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940230541543,sawyer-1,MERGE,SAWYER TOP,"[""Tops"",""Knitwear""]"
+8940230672615,stevie,MERGE,STEVIE CASHMERE  SWEATER,"[""Sweaters"",""Tops"",""Knitwear""]"
+8940230738151,stevie-1,MERGE,STEVIE CASHMERE SWEATER,"[""Sweaters"",""Tops"",""Knitwear""]"
+8940230410471,sawyer,MERGE,SAWYER TOP,"[""Tops"",""Knitwear""]"
+8940231164135,cropped-muscle-tank-1,MERGE,CROPPED MUSCLE TANK,"[""Tanks""]"
+8940231033063,cropped-muscle-tank,MERGE,CROPPED MUSCLE TANK,"[""Tanks""]"
+8940231295207,cropped-muscle-tank-2,MERGE,CROPPED MUSCLE TANK,"[""Tanks""]"
+8940230869223,drawstring-short-cream,MERGE,DRAWSTRING SHORT,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940231459047,ls-baby-tee,MERGE,Long Sleeve Baby Tee,
+8940231524583,tank-jumpsuit,MERGE,TANK JUMPSUIT,"[""Jumpsuits"",""Bodysuits"",""Lounge"",""Lounge Tops""]"
+8940231655655,tank-jumpsuit-1,MERGE,TANK JUMPSUIT,"[""Jumpsuits"",""Bodysuits"",""Lounge"",""Lounge Tops""]"
+8940231819495,tank-romper-1,MERGE,TANK ROMPER,"[""Rompers"",""Bodysuits"",""Lounge"",""Lounge Tops""]"
+8949241643239,rise-ai-giftcard,MERGE,Digital Gift Card,"[""Accessories""]"
+8975032352999,gift-card,MERGE,Backup - Digital Gift Card,[]
+8975032385767,gift-card-1,MERGE,Gift Card,[]
+8964805525735,test-product-1,MERGE,test product,"[""Swim""]"
+8975042150631,classic-sweatpant-chocolate,MERGE,Classic Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8975042052327,poplin-lounge-pant,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms""]"
+8975042117863,poplin-oversized-button-down,MERGE,Oversized Button Down,"[""Tops""]"
+8975042347239,fitted-crewneck-short-sleeve-t-shirt-2,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases""]"
+8975042380007,journey,MERGE,JOURNEY TOP,
+8975042248935,fitted-crewneck-short-sleeve-t-shirt-1,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases""]"
+8975042216167,fitted-crewneck-short-sleeve-t-shirt,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases""]"
+8975042543847,journey-1,MERGE,JOURNEY TOP,"[""Tops"",""Knitwear""]"
+8975042576615,button-down,MERGE,Button Down,
+8983466967271,cropped-fitted-turtleneck-top,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""T-shirts""]"
+8983466803431,lounge-pant-stripe,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms""]"
+8983466901735,button-down-stripe,MERGE,Oversized Button Down,"[""Tops""]"
+8983467098343,long-sleeve-crewneck-mini-dress-heather-oatmeal,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8983467131111,long-sleeve-crewneck-maxi-dress-heather-oatmeal,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8975042412775,lounge-pant,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8983467196647,long-sleeve-turtleneck-maxi-dress-heather-oatmeal,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8983467163879,long-sleeve-turtleneck-mini-dress-heather-oatmeal,MERGE,Long Sleeve Turtleneck Mini Dress,"[""Dresses"",""Mini""]"
+8983467032807,long-sleeve-fitted-top-navy,MERGE,Long Sleeve Fitted Top,"[""Tops"",""Lounge"",""T-shirts"",""Lounge Tops""]"
+8983467294951,drawstring-pant,MERGE,Drawstring Pant,
+8983467229415,high-neck-fitted-tank-6,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8983467327719,drawstring-pant-1,MERGE,Drawstring Pant,
+8983467393255,ls-baby-tee-1,MERGE,Long Sleeve Baby Tee,"[""tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+8983467426023,short-sleeve-baby-tee-navy,MERGE,Short Sleeve Baby Tee,"[""T-shirts"",""tops"",""lounge"",""lounge tops""]"
+8983467360487,emma-skirt-heather-oatmeal,MERGE,Emma Skirt,"[""Skirts"",""Bottoms""]"
+8983467262183,drawstring-pant-heather-oatmeal,MERGE,Drawstring Pant,"[""lounge"",""lounge bottoms"",""pants"",""lounge pants"",""Bottoms""]"
+8983467491559,elton-1,MERGE,Elton Vest,
+8983467524327,elton,MERGE,Elton Vest,
+8983671505127,90s-brief-black,MERGE,90s Brief,"[""Intimates"",""Underwear""]"
+8987014758631,etienne,MERGE,ETIENNE SWEATER,"[""Knitwear"",""Knitwear Tops""]"
+8983467458791,thermal-drawstring-pant-ivory,MERGE,Drawstring Pant,
+8987014824167,etienne-1,MERGE,ETIENNE SWEATER,"[""Knitwear"",""Knitwear Tops"",""Sweaters"",""Tops""]"
+8987014889703,etienne-2,MERGE,ETIENNE SWEATER,"[""Knitwear"",""Knitwear Tops""]"
+9001541304551,test,MERGE,Test,
+9003078123751,shrunken-raglan-sweatshirt,MERGE,Shrunken Raglan Sweatshirt,"[""SWEATSHIRTS"",""LOUNGE"",""LOUNGE TOPS"",""Tops""]"
+9003078189287,oversized-crewneck-sweatshirt-navy,MERGE,Oversized Crewneck Sweatshirt,"[""SWEATSHIRTS"",""Lounge"",""Lounge Tops"",""Tops""]"
+9003078222055,cropped-half-zip-sweatshirt-3,MERGE,Cropped Half-Zip Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+9003078254823,james-4,MERGE,JAMES SWEATER,"[""SWEATERS"",""KNITWEAR"",""knitwear tops"",""tops""]"
+9003078090983,straight-leg-sweatpant,MERGE,Straight Leg Sweatpant,"[""BOTTOMS"",""SWEATPANTS"",""LOUNGE"",""LOUNGE BOTTOMS""]"
+9003077992679,classic-sweatpant-navy,MERGE,Classic Sweatpant,"[""BOTTOMS"",""SWEATPANTS"",""LOUNGE"",""LOUNGE BOTTOMS""]"
+9006836089063,highwaist-legging-black,MERGE,HIGH WAIST LEGGING,"[""Bottoms"",""Leggings"",""Lounge"",""Lounge Bottoms"",""New In"",""New Releases""]"
+9006836154599,highwaist-legging-1,MERGE,HIGH WAIST LEGGING,"[""Bottoms"",""Leggings"",""Lounge"",""Lounge Bottoms"",""New In"",""New Releases""]"
+9006836777191,cropped-cardigan,MERGE,CROPPED CARDIGAN,"[""Tops"",""New In"",""New Releases""]"
+9006836973799,cropped-cardigan-1,MERGE,CROPPED CARDIGAN,"[""Tops"",""New In"",""New Releases""]"
+9006836318439,highwaist-legging-heather-grey,MERGE,HIGH WAIST LEGGING,"[""Bottoms"",""Leggings"",""Lounge"",""Lounge Bottoms"",""New In"",""New Releases""]"
+9006837006567,cropped-cardigan-2,MERGE,CROPPED CARDIGAN,"[""Tops"",""New In"",""New Releases""]"
+9006836482279,highwaist-legging-chocolate,MERGE,HIGH WAIST LEGGING,"[""Bottoms"",""Leggings"",""Lounge"",""Lounge Bottoms"",""New In"",""New Releases""]"
+9006837629159,long-sleeve-baby-tee-heather-oatmeal,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+9006837661927,short-sleeve-baby-tee-heather-oatmeal,MERGE,Short Sleeve Baby Tee,"[""T-shirts"",""Tops""]"
+9016208851175,high-neck-fitted-tank-heather-oatmeal,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+9006837596391,long-sleeve-fitted-top-heather-oatmeal,MERGE,Long Sleeve Fitted Top,"[""Tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+9016208916711,brody-pant,MERGE,BRODY PANT,"[""Bottoms"",""Pants""]"
+9016209015015,constance,MERGE,CONSTANCE TOP,"[""Tops"",""Button Downs""]"
+9016209277159,cropped-fitted-turtleneck-top-navy,MERGE,Cropped Fitted Turtleneck Top,"[""Tops""]"
+9016208949479,brody,MERGE,BRODY PANT,"[""Bottoms"",""Pants""]"
+9016208982247,constance-top,MERGE,CONSTANCE TOP,"[""Tops"",""Button Downs""]"
+9016209506535,francis-4,MERGE,FRANCIS SWEATER,"[""KNITWEAR"",""KNITWEAR TOPS"",""SWEATERS""]"
+9017717227751,test-2,MERGE,Test 2,"[""Tops""]"
+9016209342695,cropped-fitted-turtleneck-top-1,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""T-shirts""]"
+9023728615655,cropped-half-zip-sweatshirt-heather-oatmeal,MERGE,Cropped Half-Zip Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+9023728681191,brady-black,MERGE,BRADY SWEATER,"[""Knitwear"",""Knitwear Tops"",""Sweaters"",""Tops""]"
+9023728746727,theodore-4,MERGE,THEODORE CARDIGAN,"[""Knitwear"",""Knitwear Tops"",""Tops""]"
+9016209375463,cropped-fitted-turtleneck-top-2,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""T-shirts""]"
+9025633353959,shrunken-raglan-heather-oatmeal,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""tops""]"
+9025633288423,straight-leg-sweatpant-heather-oatmeal,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+9023728451815,classic-sweatpant-heather-oatmeal,MERGE,Classic Sweatpant,"[""BOTTOMS"",""SWEATPANTS"",""LOUNGE"",""LOUNGE BOTTOMS""]"
+9025633452263,shrunken-raglan-hoodie-heather-oatmeal,MERGE,Shrunken Hoodie Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+9025633386727,oversized-crewneck-heather-oatmeal,MERGE,Oversized Crewneck Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+9038862844135,long-sleeve-crewneck-mini-dress-moss,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini"",""New In"",""New Releases""]"
+9038863007975,long-sleeve-crewneck-maxi-dress-moss,MERGE,Long Sleeve Crewneck Maxi Dress,"[""dresses"",""maxi"",""New releases"",""New In""]"
+9038862745831,cropped-fitted-turtleneck-top-moss,MERGE,Cropped Fitted Turtleneck Top,"[""Tops"",""New In"",""New Releases""]"
+9038863171815,long-sleeve-turtleneck-mini-dress-moss,MERGE,Long Sleeve Turtleneck Mini Dress,"[""dresses"",""Mini"",""New releases"",""New In""]"
+9038863270119,long-sleeve-turtleneck-maxi-dress-moss,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""dresses"",""maxi"",""New releases"",""New In""]"
+9038862647527,long-sleeve-fitted-top-moss,MERGE,Long Sleeve Fitted Top,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops"",""Lounge""]"
+9038864154855,shrunken-raglan-sweatshirt-moss,MERGE,Shrunken Raglan Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases"",""Lounge"",""Lounge Tops""]"
+9038864482535,oversized-crewneck-sweatshirt-moss,MERGE,Oversized Crewneck Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases"",""Lounge"",""Lounge Tops""]"
+9038864711911,high-neck-fitted-tank-moss,MERGE,High Neck Fitted Tank,"[""Tops"",""Tank Tops"",""New In"",""New Releases"",""Lounge "",""Lounge Tops""]"
+8940200034535,cropped-thin-strap-fitted-tank-heather-grey,MERGE,Cropped Thin Strap Fitted Tank,
+8940200067303,tank-dress-maxi-black,MERGE,Tank Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200165607,tank-dress-maxi-cream,MERGE,Tank Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200296679,tank-dress-maxi-heather-grey,MERGE,Tank Maxi Dress,
+9038863532263,classic-sweatpant-moss,MERGE,Classic Sweatpant,"[""Bottoms"",""New In"",""New Releases"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940200329447,long-sleeve-crewneck-dress-maxi-black,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200394983,long-sleeve-crewneck-dress-maxi-cream,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200427751,long-sleeve-crewneck-dress-maxi-heather-grey,MERGE,Long Sleeve Crewneck Maxi Dress,
+8940200526055,long-sleeve-turtleneck-dress-mini-black-black,MERGE,Long Sleeve Turtleneck Mini Dress,"[""Dresses"",""Mini""]"
+8940200558823,long-sleeve-turtleneck-dress-mini-cream,MERGE,Long Sleeve Turtleneck Mini Dress,"[""Dresses"",""Mini""]"
+9038863696103,straight-leg-sweatpant-moss,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""New In"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+8940200591591,long-sleeve-turtleneck-dress-mini-heather-grey,MERGE,Long Sleeve Turtleneck Mini Dress,
+8940200722663,long-sleeve-turtleneck-dress-maxi-cream,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200657127,long-sleeve-turtleneck-dress-maxi-black,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940200788199,long-sleeve-turtleneck-dress-maxi-heather-grey,MERGE,Long Sleeve Turtleneck Maxi Dress,
+8940200919271,classic-sweatpant-cream,MERGE,Classic Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940200984807,classic-sweatpant-heather-brown,MERGE,Classic Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940200853735,classic-sweatpant-black,MERGE,Classic Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201083111,straight-leg-sweatpant-black,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201115879,straight-leg-sweatpant-cream,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201017575,classic-sweatpant-heather-grey,MERGE,Classic Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201279719,straight-leg-sweatpant-heather-brown,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201410791,shrunken-raglan-sweatshirt-black,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201345255,straight-leg-sweatpant-heather-grey,MERGE,Straight Leg Sweatpant,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+8940201476327,shrunken-raglan-sweatshirt-cream,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201541863,shrunken-raglan-sweatshirt-choco,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940201607399,shrunken-raglan-sweatshirt-heather-grey,MERGE,Shrunken Raglan Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201672935,oversized-crewneck-sweatshirt-black,MERGE,Oversized Crewneck Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201804007,oversized-crewneck-sweatshirt-choco,MERGE,Oversized Crewneck Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201705703,oversized-crewneck-sweatshirt-cream,MERGE,Oversized Crewneck Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops""]"
+8940201902311,oversized-crewneck-sweatshirt-heather-grey,MERGE,Oversized Crewneck Sweatshirt,"[""Sweatshirts"",""Lounge"",""Lounge Tops""]"
+8940201935079,georgia,MERGE,Georgia Dress Black,"[""Dresses"",""Maxi""]"
+8940202033383,charlie,MERGE,Charlie Top,"[""Tops""]"
+8940202098919,sloane,MERGE,Sloane Dress,"[""Dresses""]"
+8940202164455,romee,MERGE,Romee Top,"[""Tops""]"
+8940202328295,chloe,MERGE,Chloé Top,"[""Tops""]"
+8940202361063,simone,MERGE,Simone Top,"[""Tops""]"
+8940202492135,sadie,MERGE,Sadie Dress,
+8940202590439,theodore,MERGE,Theodore Cardigan,"[""Knitwear"",""Knitwear Tops"",""Tops""]"
+8940202721511,theodore-1,MERGE,Theodore Cardigan,[]
+8940202754279,theodore-2,MERGE,Theodore Cardigan,"[""Knitwear"",""Knitwear Tops"",""Tops""]"
+8940202262759,amina,MERGE,Amina Top,"[""Tops""]"
+8940202787047,theodore-3,MERGE,Theodore Cardigan,"[""Knitwear"",""Knitwear Tops"",""Tops""]"
+8940202852583,james,MERGE,James Sweater,"[""Sweaters"",""Knitwear"",""Tops"",""Knitwear Tops""]"
+8940202885351,james-1,MERGE,James Sweater,"[""Sweaters"",""Knitwear""]"
+8940203049191,james-3,MERGE,James Sweater,"[""Sweaters""]"
+8940202950887,james-2,MERGE,James Sweater,"[""Sweaters"",""Knitwear""]"
+8940203081959,francis,MERGE,Francis Sweater,"[""Sweaters"",""Knitwear""]"
+8940202426599,emma,MERGE,Emma Skirt,"[""Skirts"",""Bottoms""]"
+8940203180263,francis-2,MERGE,Francis Sweater,"[""Sweaters"",""Knitwear""]"
+8940203147495,francis-1,MERGE,Francis Sweater,"[""Sweaters""]"
+8940203213031,francis-3,MERGE,Francis Sweater,"[""Sweaters"",""Knitwear"",""Tops"",""Knitwear Tops""]"
+8940203376871,long-sleeve-crewneck-dress-mini-earth,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940203442407,short-sleeve-baby-tee-earth,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+8940203573479,long-sleeve-crewneck-dress-maxi-sand,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940203671783,tank-dress-mini-earth,MERGE,Tank Mini Dress,"[""Dresses"",""Mini""]"
+8940203802855,tank-dress-mini-oat,MERGE,Tank Mini Dress,
+8940203933927,tank-dress-mini-olive,MERGE,Tank Mini Dress,
+8940203999463,tank-dress-mini-sand,MERGE,Tank Mini Dress,
+8940203507943,lounge-pant-earth,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940204130535,tank-dress-maxi-earth,MERGE,Tank Maxi Dress,"[""Dresses"",""Maxi""]"
+8940204064999,tank-dress-maxi-chocolate,MERGE,Tank Maxi Dress,"[""Dresses"",""Maxi""]"
+8940204228839,tank-dress-maxi-olive,MERGE,Tank Maxi Dress,
+8940204359911,tank-dress-maxi-sand,MERGE,Tank Maxi Dress,
+8940204523751,tank-dress-maxi-oat,MERGE,Tank Maxi Dress,
+8940204654823,long-sleeve-crewneck-dress-mini-chocolate,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940204818663,long-sleeve-crewneck-dress-mini-oat,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940204884199,long-sleeve-crewneck-dress-mini-sand,MERGE,Long Sleeve Crewneck Mini Dress,"[""Dresses"",""Mini""]"
+8940204949735,long-sleeve-crewneck-dress-maxi-chocolate,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940205146343,long-sleeve-crewneck-dress-maxi-earth,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940205342951,long-sleeve-turtleneck-dress-mini-chocolate,MERGE,Long Sleeve Turtleneck Mini Dress,"[""Dresses"",""Mini""]"
+8940205310183,long-sleeve-crewneck-dress-maxi-oat,MERGE,Long Sleeve Crewneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940205768935,long-sleeve-turtleneck-dress-maxi-sand,MERGE,Long Sleeve Turtleneck Maxi Dress,[]
+8940205506791,long-sleeve-turtleneck-dress-maxi-earth,MERGE,Long Sleeve Turtleneck Maxi Dress,"[""Dresses"",""Maxi""]"
+8940205932775,short-sleeve-baby-tee-chocolate,MERGE,Short Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+8940206653671,short-sleeve-boyfriend-t-shirt-chocolate,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940206031079,short-sleeve-baby-tee-oat,MERGE,Short Sleeve Baby Tee,
+8940206457063,short-sleeve-baby-tee-sand,MERGE,Short Sleeve Baby Tee,
+8940206751975,short-sleeve-boyfriend-t-shirt-oat,MERGE,Short Sleeve Boyfriend T-Shirt Oat,"[""T-shirts""]"
+8940206850279,short-sleeve-boyfriend-t-shirt-olive,MERGE,Short Sleeve Boyfriend T-Shirt Olive,"[""T-shirts""]"
+8940206129383,short-sleeve-baby-tee-olive,MERGE,Short Sleeve Baby Tee,
+8940206915815,short-sleeve-boyfriend-t-shirt-sand,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts""]"
+8940206981351,long-sleeve-boyfriend-t-shirt-chocolate,MERGE,Long Sleeve Boyfriend T-Shirt,
+8940207014119,long-sleeve-boyfriend-t-shirt-oat,MERGE,Long Sleeve Boyfriend T-Shirt,[]
+8940207046887,long-sleeve-boyfriend-t-shirt-olive,MERGE,Long Sleeve Boyfriend T-Shirt,[]
+8940207112423,long-sleeve-boyfriend-t-shirt-sand,MERGE,Long Sleeve Boyfriend T-Shirt,
+8940207145191,rib-tank-chocolate,MERGE,Rib Tank,[]
+8940207177959,rib-tank-oat,MERGE,Rib Tank,
+8940207243495,rib-tank-olive,MERGE,Rib Tank,
+8940207309031,rib-tank-sand,MERGE,Rib Tank,
+8940207407335,rib-tank-earth,MERGE,Rib Tank,"[""Tanks""]"
+8940207505639,cropped-scoop-neck-tank-earth,MERGE,Cropped Scoop Neck Tank,
+8940207571175,cropped-scoop-neck-tank-oat,MERGE,Cropped Scoop Neck Tank,
+8940207538407,cropped-scoop-neck-tank-chocolate,MERGE,Cropped Scoop Neck Tank,[]
+8940207669479,cropped-scoop-neck-tank-olive,MERGE,Cropped Scoop Neck Tank,
+8940207800551,cropped-scoop-neck-tank-sand,MERGE,Cropped Scoop Neck Tank,
+8940207898855,long-sleeve-cropped-t-shirt-earth,MERGE,Long Sleeve Cropped T-shirt,
+8940208095463,long-sleeve-cropped-t-shirt-olive,MERGE,Long Sleeve Cropped T-Shirt,
+8940208521447,lounge-pant-olive,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940208652519,lounge-pant-sand,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+8940208685287,lounge-boxer-short-chocolate,MERGE,Lounge Boxer Short,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940208455911,lounge-pant-oat,MERGE,Lounge Pant,
+8940208259303,lounge-pant-chocolate,MERGE,Lounge Pant,"[""Bottoms"",""Lounge Pants"",""New In"",""New Releases""]"
+8940208816359,lounge-boxer-short-olive,MERGE,Lounge Boxer Short,"[""Shorts"",""Bottoms"",""Lounge""]"
+8940208783591,lounge-boxer-short-oat,MERGE,Lounge Boxer Short,
+8940208881895,lounge-boxer-short-sand,MERGE,Lounge Boxer Short,
+8940209111271,super-cropped-rib-tank-1,MERGE,Super Cropped Rib Tank,
+8940209242343,super-cropped-rib-tank-2,MERGE,Super Cropped Rib Tank,[]
+8940209340647,super-cropped-rib-tank-3,MERGE,Super Cropped Rib Tank,
+8940209602791,high-neck-fitted-tank,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940209733863,high-neck-fitted-tank-1,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940209766631,high-neck-fitted-tank-2,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940210061543,cropped-rib-tank-oat,MERGE,Cropped Rib Tank,[]
+8940210127079,cropped-rib-tank-sand,MERGE,Cropped Rib Tank,[]
+8940209864935,high-neck-fitted-tank-3,MERGE,High Neck Fitted Tank,"[""Tanks"",""Lounge"",""Lounge Tops""]"
+8940210454759,amelia-halter-one-piece-2,MERGE,Amelia Halter One Piece,"[""One Pieces"",""Swim""]"
+8940210225383,amelia-halter-one-piece,MERGE,Amelia Halter One Piece,"[""One Pieces"",""Swim""]"
+8940210684135,isla-string-bikini-top,MERGE,ISLA BIKINI TOP,"[""Bikini Tops"",""Swim""]"
+8940210749671,isla-string-bikini-top-1,MERGE,ISLA BIKINI TOP,"[""Bikini Tops"",""Swim""]"
+8940210389223,amelia-halter-one-piece-1,MERGE,Amelia Halter One Piece,"[""One Pieces"",""Swim""]"
+8940210847975,isla-string-bikini-top-2,MERGE,ISLA BIKINI TOP,"[""Bikini Tops"",""Swim""]"
+8940211011815,isla-string-bikini-brief,MERGE,ISLA BIKINI BOTTOM,"[""Bikini Bottoms"",""Swim""]"
+8940211044583,isla-string-bikini-brief-1,MERGE,ISLA BIKINI BOTTOM,"[""Bikini Bottoms"",""Swim""]"
+8940211208423,isla-string-bikini-brief-2,MERGE,ISLA BIKINI BOTTOM,"[""Bikini Bottoms"",""Swim""]"
+8940211339495,jolene-button-down-top,MERGE,Jolene Button Down Top,"[""Cover Ups"",""Tops"",""Swim""]"
+8940211437799,jolene-button-down-top-1,MERGE,Jolene Button Down Top,"[""Cover Ups"",""Tops"",""Swim""]"
+9038865039591,shrunken-hoodie-sweatshirt-moss,MERGE,Shrunken Hoodie Sweatshirt,
+8940211536103,jolene-button-down-top-2,MERGE,Jolene Button Down Top,"[""Cover Ups""]"
+9038865563879,cropped-half-zip-sweatshirt-moss,MERGE,Cropped Half-Zip Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases"",""Lounge"",""Lounge Tops""]"
+9038866055399,short-sleeve-baby-tee-moss,MERGE,Short Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9038865826023,ls-baby-tee-moss,MERGE,Long Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9038865268967,fitted-crewneck-short-sleeve-t-shirt-moss,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9038864941287,emma-skirt-moss,MERGE,EMMA SKIRT,"[""Bottoms"",""Skirts"",""Maxi"",""New In"",""New Releases""]"
+9038866219239,lounge-pant-moss,MERGE,Lounge Pant,"[""Bottoms"",""Lounge Pants"",""New In"",""New Releases""]"
+9038866481383,brady-moss,MERGE,BRADY SWEATER,"[""Knitwear"",""Tops"",""Sweaters"",""Knitwear Tops"",""New Releases"",""New In""]"
+9038866579687,lenny-moss,MERGE,LENNY VEST,"[""Knitwear"",""Tops"",""Knitwear Tops"",""New Releases"",""New In""]"
+9038866743527,theodore-moss,MERGE,THEODORE CARDIGAN,"[""Knitwear"",""Knitwear Tops"",""New In"",""New Releases"",""Tops""]"
+9038866809063,francis-moss,MERGE,FRANCIS SWEATER,"[""Knitwear"",""Tops"",""Sweaters"",""Knitwear Tops"",""New Releases"",""New In""]"
+9038866776295,james-moss,MERGE,JAMES SWEATER,"[""Knitwear"",""Tops"",""Sweaters"",""Knitwear Tops"",""New Releases"",""New In""]"
+9038866383079,emma-cashmere-skirt-moss,MERGE,Emma Skirt,"[""Bottoms"",""Knitwear"",""Knitwear Bottoms"",""Skirts"",""Maxi"",""New In"",""New Releases""]"
+9038866972903,josephine-pant-moss,MERGE,JOSEPHINE PANT,"[""Bottoms"",""Pants"",""New Releases"",""New In""]"
+9038866940135,brody-moss,MERGE,BRODY PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases""]"
+9038867103975,bianca-moss,MERGE,BIANCA SKIRT,"[""Bottoms"",""Skirts"",""New In"",""New Releases""]"
+9038867136743,constance-top-moss,MERGE,CONSTANCE TOP,"[""Tops"",""Button Downs"",""New In"",""New Releases""]"
+9038867202279,mila-silk-camisole-moss,MERGE,MILA CAMISOLE,"[""Tops"",""Tanks"",""New In"",""New Releases""]"
+9038910259431,fitted-crewneck-long-sleeve-t-shirt-ivory,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""t-shirts"",""new in"",""new releases"",""lounge"",""lounge tops""]"
+9038910357735,fitted-crewneck-long-sleeve-t-shirt-hg,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""t-shirts"",""new in"",""new releases"",""lounge"",""lounge tops""]"
+9038910292199,fitted-crewneck-long-sleeve-t-shirt-black,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""t-shirts"",""new in"",""new releases"",""lounge"",""lounge tops""]"
+9038910423271,bianca-skirt,MERGE,BIANCA SKIRT,"[""bottoms"",""skirts""]"
+9048133632231,eve-silk-maxi-dress-black,MERGE,EVE MAXI,"[""New In "",""New Releases"",""Dresses"",""The Silk Collection""]"
+9044764852455,valery,MERGE,VALERY DRESS,"[""Dresses"",""Maxi""]"
+9048134713575,josephine-trouser-black,MERGE,JOSEPHINE PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases""]"
+9048134910183,mila-silk-camisole-black,MERGE,MILA CAMISOLE,"[""Tops"",""New In"",""New Releases"",""Tanks""]"
+9048134844647,constance-ivory,MERGE,CONSTANCE TOP,"[""Tops"",""Button Downs"",""New In"",""New Releases""]"
+9048134680807,brody-pant-ivory,MERGE,BRODY PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases""]"
+9048135008487,mila-silk-camisole-ivory,MERGE,MILA CAMISOLE,"[""Tops"",""Tanks"",""New In"",""New Releases""]"
+9048134779111,josephine-pant-ivory,MERGE,JOSEPHINE PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases""]"
+9048504107239,long-sleeve-fitted-top-chocolate,MERGE,Long Sleeve Fitted Top,"[""TOPS"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+9048504238311,cropped-fitted-turtleneck-top-chocolate,MERGE,Cropped Fitted Turtleneck  Top,"[""Tops"",""New In"",""New Releases""]"
+9048504434919,shrunken-raglan-sweatshirt-chocolate,MERGE,Shrunken Raglan Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases""]"
+9048504762599,emma-skirt-chocolate,MERGE,Emma Skirt,"[""Bottoms"",""Skirts"",""Maxi"",""New In"",""New Releases""]"
+9048504369383,straight-leg-sweatpant-chocolate,MERGE,Straight Leg Sweatpant,"[""Sweatpants"",""Lounge"",""Lounge Bottoms""]"
+9048504893671,shrunken-hoodie-sweatshirt-3,MERGE,Shrunken Hoodie Sweatshirt,
+9048504565991,oversized-crewneck-sweatshirt-chocolate,MERGE,Oversized Crewneck Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases""]"
+9048504959207,fitted-crewneck-long-sleeve-t-shirt,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9048505057511,fitted-crewneck-short-sleeve-t-shirt-chocolate,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9048505188583,cropped-half-zip-sweatshirt-choco,MERGE,Cropped Half-Zip Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases"",""Lounge"",""Lounge Tops""]"
+9048505319655,ls-baby-tee-chocolate,MERGE,Long Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9048505549031,lenny-chocolate,MERGE,LENNY VEST,"[""Knitwear"",""Knitwear Tops"",""Tops"",""New In""]"
+9048509317351,fitted-turtleneck-top-sj-cream,MERGE,Fitted Turtleneck Top,"[""Soft Jersey"",""Lounge"",""Lounge Tops"",""Tops"",""New In"",""New Releases""]"
+9048509382887,fitted-turtleneck-top-sj-black,MERGE,Fitted Turtleneck Top,"[""Lounge"",""Lounge Tops"",""Tops"",""New In"",""New Releases"",""Soft Jersey""]"
+9048505417959,luca-scarf,MERGE,LUCA SCARF,"[""Accessories"",""Scarves"",""Knitwear"",""Knitwear Accessories""]"
+9052910059751,brady-heather-grey,MERGE,BRADY SWEATER,"[""Knitwear"",""Sweaters"",""Knitwear Tops"",""New In"",""New Releases""]"
+9048505483495,levi-beanie-chocolate,MERGE,LEVI BEANIE,"[""Accessories"",""Hats"",""Knitwear"",""Knitwear Accessories""]"
+9052911272167,eve,MERGE,EVE,
+9052912582887,fitted-crewneck-long-sleeve-t-shirt-sj-black,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""Soft Jersey"",""New In"",""New Releases"",""Lounge"",""Tops"",""T-shirts"",""Lounge Tops""]"
+9052912648423,fitted-crewneck-long-sleeve-t-shirt-sj-cream,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""Soft Jersey"",""New In"",""New Releases"",""Tops"",""Lounge"",""Lounge Tops"",""t-shirts""]"
+9052912681191,fitted-crewneck-long-sleeve-t-shirt-3,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,
+9052912746727,fitted-crewneck-short-sleeve-t-shirt-sj-cream,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""Lounge"",""Lounge Tops"",""New In"",""New Releases"",""Tops""]"
+9052912779495,fitted-crewneck-short-sleeve-t-shirt-7,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,
+9052912713959,fitted-crewneck-short-sleeve-t-shirt-sj-black,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""New In"",""New Releases"",""Tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+9052957180135,luca-scarf-black,MERGE,LUCA SCARF,"[""Accessories"",""Scarves"",""Knitwear"",""Knitwear Accessories""]"
+9052957212903,luca-scarf-hoat,MERGE,LUCA SCARF,"[""Knitwear"",""Accessories"",""Scarves"",""Knitwear Accessories""]"
+9052957245671,levi-beanie-1,MERGE,LEVI BEANIE,"[""Accessories"",""Hats"",""Knitwear"",""Knitwear Accessories""]"
+9075031310567,high-waist-legging-heather-oatmeal,MERGE,High Waist Legging,"[""Bottoms"",""Leggings"",""Lounge"",""Lounge Bottoms"",""New In"",""New Releases"",""Butter Rib""]"
+9052957311207,levi-beanie-oatmeal,MERGE,LEVI BEANIE,"[""Accessories"",""Hats"",""Knitwear"",""Knitwear Accessories""]"
+9075031408871,drawstring-short-heather-oatmeal,MERGE,Drawstring Short,"[""Shorts"",""Bottoms"",""Lounge"",""Butter Rib"",""New In"",""New Releases""]"
+9075031867623,tube-maxi-dress-heather-oatmeal,MERGE,Tube Maxi Dress,"[""Dresses"",""Maxi"",""New In"",""New Releases""]"
+9075031703783,short-sleeve-raglan-sweatshirt-heather-oatmeal,MERGE,Short Sleeve Raglan Sweatshirt,"[""New In"",""New Releases"",""Lounge"",""Lounge Bottoms"",""Bottoms""]"
+9075031998695,short-sleeve-boyfriend-t-shirt-heather-oatmeal,MERGE,Short Sleeve Boyfriend T-Shirt,"[""T-shirts"",""Butter Rib"",""New In"",""New Releases""]"
+9075031769319,oversized-raglan-sweatshirt-heather-oatmeal,MERGE,Oversized Raglan Sweatshirt,"[""New In"",""New Releases"",""Lounge"",""Lounge Tops"",""Sweatshirts""]"
+9075031572711,boyfriend-pocket-sweatpant-heather-oatmeal,MERGE,Boyfriend Pocket Sweatpant,"[""New In"",""New Releases"",""Lounge"",""Lounge Bottoms"",""Bottoms""]"
+9075032129767,long-sleeve-boyfriend-t-shirt-heather-oatmeal,MERGE,Long Sleeve Boyfriend T-Shirt,"[""T-shirts"",""Butter Rib"",""New In"",""New Releases""]"
+9075032260839,lounge-pant-heather-oatmeal,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge"",""New In"",""New Releases""]"
+9081897320679,classic-sweatpant-dove,MERGE,CLASSIC SWEATPANT,"[""Bottoms"",""New In"",""Sweatpants"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+9081897353447,straight-leg-sweatpant-dove,MERGE,STRAIGHT LEG SWEATPANT,"[""Bottoms"",""Sweatpants"",""Lounge"",""Lounge Bottoms"",""New In""]"
+9081897386215,shrunken-raglan-sweatshirt-dove,MERGE,Shrunken Raglan Sweatshirt,"[""Tops"",""Sweatshirts"",""New In"",""New Releases"",""Lounge Tops"",""Lounge""]"
+9081897418983,oversized-crewneck-sweatshirt-dove,MERGE,OVERSIZED CREWNECK SWEATSHIRT,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9081897451751,cropped-half-zip-sweatshirt-dove,MERGE,CROPPED HALF-ZIP SWEATSHIRT,"[""tops"",""sweatshirts"",""new in"",""new releases"",""lounge"",""lounge tops""]"
+9081897517287,lennox-dove,MERGE,Lennox Sweater,"[""knitwear"",""knitwear tops"",""tops""]"
+9081897615591,francis-sweater-dove,MERGE,FRANCIS SWEATER,"[""Knitwear"",""Knitwear Tops"",""Tops"",""New In "",""New Releases""]"
+9081897550055,james-sweater-dove,MERGE,James Sweater,"[""Knitwear"",""Knitwear Tops"",""Tops"",""New In"",""New Releases""]"
+9081897681127,josephine-trouser-dove,MERGE,JOSEPHINE PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases""]"
+9081897746663,mila-silk-camisole-dove,MERGE,MILA CAMISOLE,"[""Tops"",""Tanks"",""New In"",""New Releases"",""The Silk Collection""]"
+9081897713895,constance-top-dove,MERGE,CONSTANCE TOP,"[""Tops"",""Button Downs"",""New In"",""New Releases"",""The Silk Collection""]"
+9081897910503,stella-maxi-dress-black,MERGE,Stella Maxi Dress,"[""Dresses"",""New In""]"
+9081898008807,stella-mini-dress-black,MERGE,Stella Mini Dress,"[""Dresses"",""New In""]"
+9081898041575,van-top-black,MERGE,VAN TOP,"[""Knitwear"",""Knitwear Tops"",""Tops"",""New In""]"
+9081897648359,brody-pant-dove,MERGE,BRODY PANT,"[""Bottoms"",""Pants"",""New In"",""New Releases"",""The Silk Collection""]"
+9081898107111,ryder-tank-black,MERGE,Ryder Tank,"[""TOPS"",""NEW IN"",""NEW RELEASES"",""Knitwear"",""Knitwear Tops""]"
+9081898074343,van-top-bone,MERGE,VAN TOP,"[""Knitwear"",""Knitwear Tops"",""Tops"",""New In""]"
+9081898172647,mila-maxi-dress-black,MERGE,MILA DRESS,"[""DRESSES"",""NEW IN"",""DRESSES MAXI""]"
+9085519823079,iris-tank-black,MERGE,IRIS TANK,"[""TOPS"",""TANKS"",""NEW IN"",""NEW RELEASES""]"
+9081898139879,ryder-tank-bone,MERGE,Ryder Tank,"[""TOPS"",""NEW IN"",""NEW RELEASES"",""Knitwear"",""Knitwear Tops""]"
+9085520019687,iris-tank-cream,MERGE,IRIS TANK,"[""TOPS"",""TANKS"",""NEW IN"",""NEW RELEASES""]"
+9085520478439,iris-mini-dress-cream,MERGE,IRIS MINI DRESS,"[""DRESSES"",""NEW IN"",""NEW RELEASES"",""DRESSES MINI""]"
+9085520281831,iris-mini-dress-black,MERGE,IRIS MINI DRESS,"[""DRESSES"",""NEW IN"",""NEW RELEASES"",""DRESSES MINI""]"
+9085520675047,iris-maxi-dress-black,MERGE,IRIS MAXI DRESS,"[""DRESSES"",""NEW IN"",""NEW RELEASES""]"
+9085520871655,iris-maxi-dress-cream,MERGE,IRIS MAXI DRESS,"[""DRESSES"",""NEW IN"",""NEW RELEASES""]"
+9085521068263,carrie-dress-black,MERGE,CARRIE DRESS,
+9085521428711,carrie-dress-ivory,MERGE,CARRIE DRESS,
+9085521232103,carrie-dress-poppy,MERGE,CARRIE DRESS,
+9085521625319,lennox-sweater-black,MERGE,Lennox Sweater,"[""knitwear"",""knitwear tops"",""tops""]"
+9091643146471,classic-sweatpant-poppy,MERGE,Classic Sweatpant Poppy,
+9091643277543,shrunken-raglan-sweatshirt-poppy,MERGE,Shrunken Raglan Sweatshirt Poppy,
+9091643867367,emma-skirt-poppy,MERGE,EMMA SKIRT,
+9091643998439,shrunken-hoodie-sweatshirt-poppy,MERGE,Shrunken Hoodie Sweatshirt Poppy,
+9091643441383,high-neck-fitted-tank-poppy,MERGE,HIGH NECK FITTED TANK,"[""TOPS"",""TANKS"",""NEW IN"",""NEW RELEASES""]"
+9091644162279,iris-tank-poppy,MERGE,Iris Tank Poppy,
+9091643703527,boyfriend-pocket-sweatpant-poppy,MERGE,BOYFRIEND POCKET SWEATPANT,
+9091644784871,oversized-raglan-sweatshirt-poppy,MERGE,OVERSIZED RAGLAN SWEATSHIRT,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091644457191,fitted-crewneck-short-sleeve-t-shirt-poppy,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In"",""T-Shirts""]"
+9091644915943,iris-mini-dress-poppy,MERGE,Iris Mini Dress Poppy,
+9091645047015,iris-maxi-dress-poppy,MERGE,IRIS MAXI DRESS,"[""DRESSES"",""NEW IN"",""NEW RELEASES""]"
+9091645276391,short-sleeve-baby-tee-poppy,MERGE,Short Sleeve Baby Tee Poppy,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In"",""T-Shirts""]"
+9091645112551,long-sleeve-baby-tee-poppy,MERGE,LONG SLEEVE BABY TEE,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091645472999,rib-tank-poppy,MERGE,RIB TANK,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091645735143,josephine-pant-poppy,MERGE,JOSEPHINE PANT,"[""Bottoms"",""Pants"",""New In""]"
+9091645866215,constance-top-poppy,MERGE,CONSTANCE TOP,"[""tops"",""button downs"",""new in""]"
+9091645931751,mila-silk-camisole-poppy,MERGE,MILA CAMISOLE,"[""TOPS"",""TANKS"",""NEW IN""]"
+9091645636839,brody-pant-poppy,MERGE,BRODY PANT,"[""Bottoms"",""Pants"",""New In""]"
+9091646062823,mila-maxi-dress-poppy,MERGE,MILA DRESS,"[""DRESSES"",""DRESSES MAXI"",""NEW IN""]"
+9091646587111,thea-bikini-top-poppy,MERGE,THEA BIKINI TOP,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM TOPS""]"
+9091646750951,thea-bikini-bottom-poppy,MERGE,THEA BIKINI BOTTOM,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM BOTTOMS""]"
+9091646226663,isla-bikini-top-poppy,MERGE,ISLA BIKINI TOP,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM TOPS""]"
+9091646390503,isla-bikini-bottom-poppy,MERGE,ISLA BIKINI BOTTOM,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM BOTTOMS""]"
+9091646849255,kaia-bikini-top-poppy,MERGE,Kaia Bikini Top Poppy,
+9091647013095,grace-one-piece-poppy,MERGE,GRACE ONE PIECE,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM ONE PIECES""]"
+9091647144167,kaia-one-piece-poppy,MERGE,KAIA ONE PIECE,"[""NEW IN"",""NEW RELEASES"",""SWIM"",""SWIM ONE PIECES""]"
+9091647308007,kaia-bikini-bottom-poppy,MERGE,Kaia Bikini Bottom Poppy,
+9091647865063,shrunken-raglan-sweatshirt-sage,MERGE,Shrunken Raglan Sweatshirt Sage,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091647996135,shrunken-hoodie-sweatshirt-sage,MERGE,Shrunken Hoodie Sweatshirt Sage,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091647701223,classic-sweatpant-sage,MERGE,CLASSIC SWEATPANT,"[""Bottoms"",""New In"",""Sweatpants"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+9091648127207,fitted-crewneck-short-sleeve-t-shirt-sage,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In"",""T-Shirts""]"
+9091648225511,short-sleeve-raglan-sweatshirt-sage,MERGE,Short Sleeve Raglan Sweatshirt Sage,
+9091647930599,boyfriend-pocket-sweatpant-sage,MERGE,BOYFRIEND POCKET SWEATPANT,"[""Bottoms"",""New In"",""Sweatpants"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+9091648323815,oversized-raglan-sweatshirt-sage,MERGE,OVERSIZED RAGLAN SWEATSHIRT,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091648749799,long-sleeve-baby-tee-sage,MERGE,Long Sleeve Baby Tee Sage,
+9091649044711,rib-tank-sage,MERGE,RIB TANK,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091648913639,short-sleeve-baby-tee-sage,MERGE,Short Sleeve Baby Tee Sage,"[""Tops"",""Lounge"",""Lounge Tops"",""T-shirts"",""New In""]"
+9091649601767,thea-bikini-bottom-sage,MERGE,THEA BIKINI BOTTOM,
+9091649372391,thea-bikini-top-sage,MERGE,THEA BIKINI TOP,
+9091649175783,isla-bikini-top-sage,MERGE,ISLA BIKINI TOP,"[""NEW IN"",""NEW RELEASES""]"
+9091649667303,kaia-bikini-top-sage,MERGE,Kaia Bikini Top Sage,
+9091649274087,isla-bikini-bottom-sage,MERGE,ISLA BIKINI BOTTOM,"[""NEW IN"",""NEW RELEASES""]"
+9091649765607,grace-one-piece-sage,MERGE,GRACE ONE PIECE,
+9091649863911,kaia-bikini-bottom-sage,MERGE,Kaia Bikini Bottom Sage,
+9091657597159,drawstring-wide-leg-sweatpant-bone,MERGE,Drawstring Wide Leg Sweatpant Bone,
+9091657859303,mini-track-short-bone,MERGE,Mini Track Short Bone,
+9091657400551,shrunken-raglan-sweatshirt-bone,MERGE,Shrunken Raglan Sweatshirt Bone,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091658416359,shrunken-hoodie-sweatshirt-bone,MERGE,Shrunken Hoodie Sweatshirt Bone,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091658580199,short-sleeve-hoodie-sweatshirt-bone,MERGE,Short Sleeve Hoodie Sweatshirt Bone,
+9091658809575,short-sleeve-raglan-sweatshirt-bone,MERGE,Short Sleeve Raglan Sweatshirt Bone,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091658907879,oversized-raglan-sweatshirt-bone,MERGE,OVERSIZED RAGLAN SWEATSHIRT,"[""Tops"",""Sweatshirts"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091659071719,rib-tank-bone,MERGE,RIB TANK,"[""Tops"",""Lounge"",""Lounge Tops"",""Tops"",""New In""]"
+9091657072871,classic-sweatpant-bone,MERGE,CLASSIC SWEATPANT,"[""Bottoms"",""New In"",""Sweatpants"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+9091658121447,boyfriend-pocket-sweatpant-bone,MERGE,BOYFRIEND POCKET SWEATPANT,"[""Bottoms"",""New In"",""Sweatpants"",""New Releases"",""Lounge"",""Lounge Bottoms""]"
+9092339368167,short-sleeve-baby-tee-n-br-1,MERGE,Short Sleeve Baby Tee,"[""T-shirts"",""tops"",""lounge"",""lounge tops""]"
+9092354572519,lounge-pant-b-ct,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge""]"
+9092404510951,short-sleeve-baby-tee-moss-br,MERGE,Short Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9092411392231,short-sleeve-baby-tee-b-br,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+9092410704103,lounge-pant-i-cm,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+9092418371815,lounge-pant-h-ct,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge""]"
+9092420337895,lounge-pant-c-ct,MERGE,Lounge Pant,"[""Bottoms"",""Lounge Pants"",""New In"",""New Releases""]"
+9092428267751,short-sleeve-baby-tee-ivory-br,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+9092421714151,lounge-pant-m-cm-copy,MERGE,Lounge Pant,"[""Bottoms"",""Lounge Pants"",""New In"",""New Releases""]"
+9092428431591,lounge-pant-ho-ct,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge Bottoms"",""Lounge"",""New In"",""New Releases""]"
+9092432134375,short-sleeve-baby-tee-ch-br,MERGE,Short Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9092433314023,short-sleeve-baby-tee-heather-grey-br,MERGE,Short Sleeve Baby Tee,"[""T-shirts""]"
+9092433805543,short-sleeve-baby-tee-heather-oatmeal-cm,MERGE,Short Sleeve Baby Tee,"[""T-shirts"",""Tops""]"
+9092435181799,long-sleeve-baby-tee-heather-oatmeal-cm,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+9092440522983,long-sleeve-baby-tee-moss-br,MERGE,Long Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9092441178343,long-sleeve-baby-tee-black-cm-copybr,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+9092442849511,long-sleeve-baby-tee-navy-br,MERGE,Long Sleeve Baby Tee,"[""tops"",""T-shirts"",""Lounge"",""Lounge Tops""]"
+9092445896935,long-sleeve-baby-tee-chocolate-br,MERGE,Long Sleeve Baby Tee,"[""Tops"",""New In"",""New Releases"",""T-shirts"",""Lounge Tops""]"
+9092453892327,long-sleeve-baby-tee-ivory-br,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+9092457431271,long-sleeve-baby-tee-heather-grey-br,MERGE,Long Sleeve Baby Tee,"[""T-shirts"",""Tops"",""Lounge Tops""]"
+9092442489063,fitted-crewneck-long-sleeve-t-shirt-sj-ivory,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT sj,"[""t-shirts"",""new in"",""new releases"",""lounge"",""lounge tops""]"
+9092467589351,fitted-crewneck-short-sleeve-t-shirt-cm,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""Lounge"",""Lounge Tops"",""New In"",""New Releases"",""Tops""]"
+9092469948647,fitted-crewneck-short-sleeve-t-shirt-sj-1,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases""]"
+9092470866151,fitted-crewneck-short-sleeve-t-shirt-sj-2,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9092471128295,fitted-crewneck-short-sleeve-t-shirt-copy,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9092469489895,fitted-crewneck-short-sleeve-t-shirt-sj,MERGE,FITTED CREWNECK SHORT SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases""]"
+9092476502247,fitted-crewneck-long-sleeve-t-shirt-moss-cm,MERGE,FITTED CREWNECK LONG SLEEVE T-SHIRT,"[""T-shirts"",""New In"",""New Releases"",""Tops""]"
+9092486332647,lounge-pant-n-cm,MERGE,Lounge Pant,"[""Lounge Pants"",""Bottoms"",""Lounge"",""Lounge Bottoms""]"
+9107499909351,amina-dress-black,MERGE,AMINA DRESS,"[""Silk"",""Dresses"",""New In"",""Dresses Maxi""]"
+9109907144935,harlow-top-ivory,MERGE,HARLOW TOP,"[""tops""]"
+9109907046631,maxi-skirt-black,MERGE,MAXI SKIRT,
+9109907374311,amina-top-taupe,MERGE,Amina Top Taupe,
+9109907276007,harlow-top-black,MERGE,HARLOW TOP,"[""tops""]"
+9109907308775,amina-top-black,MERGE,AMINA TOP,
+9109907439847,vivian-dress-black,MERGE,VIVIAN DRESS,
+9109907505383,harlow-mini-dress-black,MERGE,HARLOW MINI DRESS,
+9109907570919,harlow-mini-dress-ivory,MERGE,HARLOW MINI DRESS,
+9109907636455,harlow-maxi-dress-oxblood,MERGE,Harlow Maxi Dress Oxblood,
+9109907701991,harlow-maxi-dress-black,MERGE,HARLOW MAXI DRESS,
+9109907734759,harlow-maxi-dress-cream,MERGE,Harlow Maxi Dress Cream,
+9109907800295,harlow-maxi-dress-ivory,MERGE,Harlow Maxi Dress Ivory,
+9109907865831,constance-top-taupe,MERGE,CONSTANCE TOP,
+9109907964135,constance-top-ivory,MERGE,CONSTANCE TOP,
+9109907931367,constance-top-black,MERGE,CONSTANCE TOP,
+9109908062439,jude-short-black,MERGE,JUDE SHORT,
+9109908160743,jude-short-ivory,MERGE,JUDE SHORT,
+9109908357351,jude-short-taupe,MERGE,JUDE SHORT,
+9109908422887,brody-pant-taupe,MERGE,BRODY PANT,
+9109908521191,brody-pant-black,MERGE,BRODY PANT,
+9110703276263,josie-dress-taupe,MERGE,Josie Dress Taupe,
+9109908619495,brody-pant-ivory-1,MERGE,BRODY PANT,
+9110703374567,josie-dress-black,MERGE,Josie Dress Black,
