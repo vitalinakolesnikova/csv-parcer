@@ -45,21 +45,23 @@ const arrayToString = (arr) => {
 
 const normalizeData = async (dataToNormalize, startRecord = 0, endRecord = 10) => {
 	const normalized = [];
-	const dataToCheck = await readFile('./csv/Eterne-New.csv');
-	const eNewHandles = [];
+	const dataToCheck = await readFile('./csv/Eterne-Alpha.csv');
+	const eAlphaHandles = [];
 
-	for (let z = 0; z < 844; z++) {
-		eNewHandles.push(dataToCheck[z]['Handle']);
+	for (let z = 0; z < 922; z++) {
+		eAlphaHandles.push(dataToCheck[z]['Handle']);
 	}
 
+	console.log(eAlphaHandles.la);
 	for (let i = startRecord; i < endRecord; i++) {
 
-		let eAlphaHandle = dataToNormalize[i]['Handle'];
+		let eNewHandle = dataToNormalize[i]['Handle'];
 		let status = dataToNormalize[i]['Status'];
-		let matched = eNewHandles.includes(eAlphaHandle);
+		let matched = eAlphaHandles.includes(eNewHandle);
+		console.info("handle: ", eNewHandle, " matched: ", matched, "status: ", status);
 
 		if (!matched) {
-			console.log("handle: ", eAlphaHandle, " matched: ", matched, "status: ", status);
+			console.log("handle: ", eNewHandle, " matched: ", matched, "status: ", status);
 			normalized.push({
 				'ID': dataToNormalize[i]['ID'],
 				'Handle': dataToNormalize[i]['Handle'],
@@ -74,11 +76,11 @@ const normalizeData = async (dataToNormalize, startRecord = 0, endRecord = 10) =
 }
 
 app.get('/', async (req, res) => {
-	const dataToNormalize = await readFile('./csv/Eterne-Alpha.csv');
+	const dataToNormalize = await readFile('./csv/Eterne-New.csv');
 
 	/* Endrecord = Кол-во записей в файле - 1 */
 
-	const normalizedData = await normalizeData(dataToNormalize, 0, 922);
+	const normalizedData = await normalizeData(dataToNormalize, 0, 844);
 	const csvHeader = Object.keys(normalizedData[0]).map((item) => {
 
 		return {
